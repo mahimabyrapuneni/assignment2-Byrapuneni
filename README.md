@@ -7,9 +7,8 @@ a central location in which data is stored and managed.
 ***
  SEATTLE
  -----
-    Take a Cab from Maryville to kansas.
- ***
-       From kansas to Washington Book a flight Ticket.
-***
-           From washington to Seattle Take a Metro Train.
-***
+    
+--- Take a Cab from Maryville to kansas.---
+--- From kansas to Washington Book a flight Ticket.---
+--- From washington to Seattle Take a Metro Train.---
+
