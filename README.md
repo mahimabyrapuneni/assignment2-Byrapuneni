@@ -13,7 +13,7 @@ a central location in which data is stored and managed.
 3. From washington to Seattle Take a Metro Train.
 4. List of choice place we vist using local transport.
 
-## Items to Bring Seattle
+## Items to Travel Seattle
 
 ---
 * Packing of clothes
