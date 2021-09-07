@@ -11,4 +11,12 @@ a central location in which data is stored and managed.
 1. Take a Cab from Maryville to kansas.
 2. From kansas to Washington Book a flight Ticket
 3. From washington to Seattle Take a Metro Train.
-4. List of choice place we vist using local transport
+4. List of choice place we vist using local transport.
+
+## Items to Bring Seattle
+
+---
+* Packing of clothes
+* booking tickets
+* carrying carmera
+* snacks 
