@@ -38,9 +38,9 @@ a central location in which data is stored and managed.
 
 ------------------
 #### Pithy Quotes
-<“I have only made this letter longer because I have not had the time to make it shorter." ...
+<I have only made this letter longer because I have not had the time to make it shorter. ...
 
-<<“What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have”
+<<What's really important here, I whispered loudly to myself, is not the big things other people have thought up, but the small things you, yourself have
 
 -----------------
 ##### Code Fencing
