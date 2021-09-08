@@ -28,10 +28,10 @@ a central location in which data is stored and managed.
 
  The below table show the pizzas that avaliable in domains in india
 
- | Pizza/drinks        |      | Location |  |Cost    |
- ----------------------       ----------    -------
- |Chicken pizza /Coke  |       | Dominos  |  |$8.00  |
- |Panner chesse /coke  |       | Dominos  |  |$6.00  |
- |Chesse pizza/7up     |       | Dominos  |  |$5.00  |
- |veg pizza/pespi      |       | Dominos  |  |$8.00  |
+ | Pizza/drinks              | Location   |Cost   |
+ |---------------------      |----------  | ------|
+ |Chicken pizza /Coke        | Dominos    |$8.00  |
+ |Panner chesse /coke        | Dominos    |$6.00  |
+ |Chesse pizza/7up           | Dominos    |$5.00  |
+ |veg pizza/pespi            | Dominos    |$8.00  |
 
