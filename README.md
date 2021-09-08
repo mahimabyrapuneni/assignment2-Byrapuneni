@@ -35,3 +35,9 @@ a central location in which data is stored and managed.
  |Chesse pizza/7up           | Dominos    |$5.00  |
  |veg pizza/pespi            | Dominos    |$8.00  |
 
+
+------------------
+#### Pithy Quotes
+<“I have only made this letter longer because I have not had the time to make it shorter." ...
+
+<<“What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have”
