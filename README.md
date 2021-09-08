@@ -21,3 +21,4 @@ a central location in which data is stored and managed.
 * carrying carmera
 * snacks 
 
+[Link of about me] (https://github.com/mahimabyrapuneni/assignment2-Byrapuneni/AboutMe.md)
