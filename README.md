@@ -41,3 +41,24 @@ a central location in which data is stored and managed.
 <“I have only made this letter longer because I have not had the time to make it shorter." ...
 
 <<“What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have”
+
+-----------------
+##### Code Fencing
+
+A process or set of rules to be followed in calculations or other problem-solving operations, especially by a compute<br>
+
+source page:  <https://cp-algorithms.com><br>
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+
+source code:  <https://cp-algorithms.com/algebra/fibonacci-numbers.html><br>
